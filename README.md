@@ -36,9 +36,6 @@ This project focuses on building a **cloud-native data platform** to analyze his
   - IBRD Statement Of Loans – Historical Data  
   - https://finances.worldbank.org/Loans-and-Credits/IBRD-Statement-Of-Loans-Historical-Data/zucq-nrc3  
 
-- **Streaming / Latest Data**  
-  - GitHub: https://github.com/akgeoinsys/finance-ibrd  
-
 ---
 
 ## 🎯 Key Business Objectives
@@ -100,7 +97,7 @@ This project focuses on building a **cloud-native data platform** to analyze his
 
 ## 👥 Team Execution Plan
 
-- 👨‍💻 3–4 members per team.  
+- 👨‍💻 3 members team.  
 - 🎯 Clear ownership of:
   - Ingestion  
   - Transformation (dbt / Snowpark)  
